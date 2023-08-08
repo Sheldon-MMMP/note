@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "52e859e354a958bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379a6c41ca06d45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/英语作文.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2921d3e37cefa731",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab1525ce9b349074",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c909fbd2e4b49bb0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "898e3b73a1fde325",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8349549ae460e752",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "21ae2c46dd3b6a3e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e88bbf15bc98548a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5604b67fd6311883",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "英语/英语作文.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "593336213e8a5f8b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "英语/英语作文.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cee84be250c7ffd3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "英语/英语作文.md"
+          }
+        }
+      },
+      {
+        "id": "d83162b2c7803d58",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "379a6c41ca06d45c",
+  "lastOpenFiles": [
+    "英语/英语作文.md",
+    "专升本/高数.md",
+    "专升本/极限、连续、间断.canvas",
+    "专升本/计算机基础.md",
+    "前端笔记/node.js/egg学习笔记.md",
+    "前端笔记/js/typescript/原始类型.md",
+    "前端笔记/js/typescript/类型拓宽.md",
+    "前端笔记/js/typescript/类型断言.md",
+    "前端笔记/js/typescript/类型缩小.md",
+    "前端笔记/js/typescript/接口类型.md",
+    "前端笔记/js/typescript/编译上下文.md",
+    "前端笔记/js/typescript/泛型.md",
+    "前端笔记/js/typescript/类型的合并.md"
+  ]
+}

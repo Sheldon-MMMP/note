@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8399de0627a26389",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端笔记/css/Sass的使用方法.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "441e21cd20e56468",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4261972e4f38a60a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "515c0e8544cc084d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e60a4e5a549f84ca",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "04cd283dd99c64a6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4359f5e0d8af0b76",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "47d2b5b933ce91bb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "c537b4fb7ce897a1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "前端笔记/css/Sass的使用方法.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3609795dcb87d7ed",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "前端笔记/css/Sass的使用方法.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "8399de0627a26389",
+  "lastOpenFiles": [
+    "前端笔记/css/Sass的使用方法.md",
+    "前端笔记/css/Sass 详细用法.md",
+    "前端笔记/node.js/Express.md",
+    "前端笔记/node.js/模块化.md",
+    "前端笔记/js/ES/Promise.md",
+    "前端笔记/js/javascript/可选链运算符.md",
+    "前端笔记/js/javascript/对象Object.md",
+    "前端笔记/js/javascript/定时器的清除与重启.md",
+    "前端笔记/js/javascript/键盘事件/KeyboardEvent.md",
+    "前端笔记/js/ES.md"
+  ]
+}

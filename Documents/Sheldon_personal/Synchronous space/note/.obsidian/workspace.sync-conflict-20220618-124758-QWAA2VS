@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0797553c1f999f32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "深入浅出webpack.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d77fccafb5dbda8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83604c1b0426b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7c06fc6df533ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "163e9dd237eec856",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8594e39d04efcf98",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "380458ad3e2d00f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2def21d8cf4b6edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37e19ba6e311f20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "深入浅出webpack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c748d393eccacc39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "深入浅出webpack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e50e1666338d441f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0797553c1f999f32",
+  "lastOpenFiles": [
+    "深入浅出webpack.md",
+    "MATLAB基本语法.md",
+    "前端笔记/前端工程化/Webpack.md",
+    "前端笔记/node.js/模块化.md",
+    "前端笔记/node.js/入门.md",
+    "前端笔记/node.js/path路径模块.md",
+    "前端笔记/node.js/http模块.md",
+    "前端笔记/js/javascript/异步/primise.md",
+    "前端笔记/git.md",
+    "前端笔记/性能优化/资源合并与压缩.md"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0797553c1f999f32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022年/2022-01-30.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c98688630309f779",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f479b70f04afd3c4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d2e9a21ef4ded277",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "减肥",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7894c1a9002a2918",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3a077e32451119d5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "7bd28156b95b609a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "51d9f09d36c7c1e2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "b1024110ffe94673",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "日记/2022年/2022-01-30.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "09e157ddb8e4e615",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "日记/2022年/2022-01-30.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9389a47fa4d651b2",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "0797553c1f999f32",
+  "lastOpenFiles": [
+    "日记/2022年/2022-01-30.md",
+    "前端笔记/js/javascript/异步/primise.md",
+    "未命名.md",
+    "前端笔记/git.md",
+    "前端笔记/性能优化/资源合并与压缩.md",
+    "通信/Http请求的过程.md",
+    "前端笔记/性能优化/未命名.md",
+    "通信/HTTP和HTTPS.md",
+    "前端笔记/动画/VUE共享组件动画.md",
+    "前端笔记/js/javascript/元素方法/element.insertAdjacentHTML.md"
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "workspaces": {
+    "学习": {
+      "main": {
+        "id": "ae72468941c8424f",
+        "type": "split",
+        "children": [
+          {
+            "id": "5f0c291b2d8eb6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anki/anki-软考/anki-安全.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "2dec744f766e99dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记软件插件使用教学/Admonition.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ffffe817fc9326dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端笔记/通信/axios.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5f6b633e9c47a72f",
+        "type": "split",
+        "children": [
+          {
+            "id": "00016ee06d2e546c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "037b9a251d0b1f5d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6b62ffb8f8940252",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5bdb5426cc089a5f",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 324
+      },
+      "right": {
+        "id": "8062c57e1709f119",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad10aa071464d323",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e907d8cc2ab8026",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "52fc3115f31851d2",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "看板/周期.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "48ef2816fef79ec6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "715ac6746d2fea72",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "77278ecea90c4268",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b3fb1887ef075365",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "abc3957ccec4ab61",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a374587d512440e8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "anki/anki-软考/anki-安全.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7767829acc633451",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "anki/anki-软考/anki-安全.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "e0b0d5485c2d282b",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 321
+      },
+      "active": "5f0c291b2d8eb6e4"
+    },
+    "小窗模式": {
+      "main": {
+        "id": "ae72468941c8424f",
+        "type": "split",
+        "children": [
+          {
+            "id": "5f0c291b2d8eb6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anki/anki-软考/anki-安全.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "2dec744f766e99dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记软件插件使用教学/Admonition.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ffffe817fc9326dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端笔记/通信/axios.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5f6b633e9c47a72f",
+        "type": "split",
+        "children": [
+          {
+            "id": "00016ee06d2e546c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "037b9a251d0b1f5d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6b62ffb8f8940252",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5bdb5426cc089a5f",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 324,
+        "collapsed": true
+      },
+      "right": {
+        "id": "8062c57e1709f119",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad10aa071464d323",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e907d8cc2ab8026",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "52fc3115f31851d2",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "看板/周期.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "48ef2816fef79ec6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "715ac6746d2fea72",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "77278ecea90c4268",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b3fb1887ef075365",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "abc3957ccec4ab61",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a374587d512440e8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "anki/anki-软考/anki-安全.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7767829acc633451",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "anki/anki-软考/anki-安全.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "e0b0d5485c2d282b",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 321,
+        "collapsed": true
+      },
+      "active": "5f0c291b2d8eb6e4"
+    },
+    "手机模式": {
+      "main": {
+        "id": "ae72468941c8424f",
+        "type": "split",
+        "children": [
+          {
+            "id": "09deb71a7d8719c5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "看板/周期.md"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7fe3ca2ec46e7a34",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "4fdb2dd02552df9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ab56a967a4cbd41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad5764b6011eaabd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7c57871fda1313c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "51c8aa6aa01cd63c",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "885a6ad28933a885",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9db7e4e988a539d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "看板/周期.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3c45e202e491d3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "看板/周期.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "active": "09deb71a7d8719c5"
+    }
+  },
+  "active": "手机模式"
+}

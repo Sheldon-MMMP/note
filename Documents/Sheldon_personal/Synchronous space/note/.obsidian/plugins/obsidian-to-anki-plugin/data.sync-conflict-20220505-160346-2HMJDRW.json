@@ -1,0 +1,104 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "填空题": "",
+      "基础 （输入答案）": "",
+      "基础（任意相反的卡片）": "",
+      "基础的（和相反的卡片）": "",
+      "基础": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)"
+    },
+    "FILE_LINK_FIELDS": {
+      "填空题": "文字",
+      "基础 （输入答案）": "正面",
+      "基础（任意相反的卡片）": "正面",
+      "基础的（和相反的卡片）": "正面",
+      "基础": "正面"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "前端笔记": "",
+      "笔记软件插件使用教学": "",
+      "数据库": "",
+      "前端笔记/css": "",
+      "前端笔记/js": "",
+      "笔记软件插件使用教学/img": "",
+      "数据库/索引": "",
+      "数据库/索引/img": "",
+      "anki": "",
+      "anki/anki-数据库": "",
+      "日记": "",
+      "看板": ""
+    },
+    "FOLDER_TAGS": {
+      "前端笔记": "",
+      "笔记软件插件使用教学": "",
+      "数据库": "",
+      "前端笔记/css": "",
+      "前端笔记/js": "",
+      "笔记软件插件使用教学/img": "",
+      "数据库/索引": "",
+      "数据库/索引/img": "",
+      "anki": "",
+      "anki/anki-数据库": "",
+      "日记": "",
+      "看板": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "anki/anki-数据库/anki-mysql.md": "5612825a17e21d440d88458a8494778c",
+    "数据库/索引/组合索引.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "数据库/索引/单列索引.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "数据库/索引/二叉树.md": "f7b936d5c572645fe9454549604d9a17",
+    "数据库/数据库原理.md": "aac581a98aac13703350c6ed915a7116",
+    "数据库/MySQL.md": "17fac89fcc13664427aa76372efb9f87",
+    "笔记软件插件使用教学/Admonition.md": "8946419128a589611e0a717835720386",
+    "前端笔记/js/jQuery.md": "539b4f8ea53586e1e788905bd27490f9",
+    "前端笔记/css/Sass的使用方法.md": "6f911906bc7aa82b8e6fd8ffa89c8be8",
+    "前端笔记/css/Sass 详细用法.md": "fba5bfaaa8201d6f1d4de5469ec13290",
+    "前端笔记/css/Live   Sass   Compiler.md": "06b9676e0a8e33bf922d82f49f876082"
+  },
+  "fields_dict": {
+    "填空题": [
+      "文字"
+    ],
+    "基础 （输入答案）": [
+      "正面",
+      "背面"
+    ],
+    "基础（任意相反的卡片）": [
+      "正面",
+      "背面",
+      "反向添加"
+    ],
+    "基础的（和相反的卡片）": [
+      "正面",
+      "背面"
+    ],
+    "基础": [
+      "正面",
+      "背面"
+    ]
+  }
+}

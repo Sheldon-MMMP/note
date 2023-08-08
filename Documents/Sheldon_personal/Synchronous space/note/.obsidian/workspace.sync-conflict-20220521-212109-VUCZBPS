@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f1ded2a57e9d24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MATLAB基本语法.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eacf9fc47a27aa1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "209067bb49f2c376",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a00e165284fe544f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3a275028a8e8b6f3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "697c49121983f061",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fbc81dcab29c2059",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "391962307d7736cc",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "59635494b59c00f4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "MATLAB基本语法.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cd7b880ae09e79ef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "MATLAB基本语法.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "26f1ded2a57e9d24",
+  "lastOpenFiles": [
+    "MATLAB基本语法.md",
+    "Android/Activity/Fragment.md",
+    "python/Python基础/Python类.md",
+    "python/Python基础/Python函数.md",
+    "python/数据分析/Pandas.md",
+    "python/数据分析/Matplotlib.md",
+    "Android/Activity/生命周期.md",
+    "Android/Activity/标签.md",
+    "Android/Activity/菜单.md",
+    "Android/适配器/ArrayAdapter.md"
+  ]
+}

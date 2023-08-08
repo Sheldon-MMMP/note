@@ -1,0 +1,12 @@
+{
+  "baseFontSize": -27,
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "bullet-point-relationship-lines",
+    "heading",
+    "realistic-highlight"
+  ],
+  "baseFontSizeAction": true
+}

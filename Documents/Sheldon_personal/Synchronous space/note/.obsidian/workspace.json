@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c09b8056fd6dc1e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfb0625603bcca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Android主页.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "053c3d668dc8d9e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4880b5fadc0ce611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d49b7c94f2d2165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fd5db565b01bdbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/Android主页.md"
+              }
+            }
+          },
+          {
+            "id": "327b20897cae4a5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17b077b15b693869",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "419726e2849b9462",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "a17c3d856cb452eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7c5556e812788c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a059038fc007f5b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "79968edb8b5a1626",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/Android主页.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b698a2909e62098",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android/Android主页.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "573d5b95da6a3264",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e5ace96b4e006da0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+    }
+  },
+  "active": "7dfb0625603bcca3",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "Android/Android主页.md",
+    "前端笔记/js/typescript/类型缩小.md",
+    "python/Django/静态文件.md",
+    "前端笔记/js/jQuery/append().md",
+    "python/Python函数/字典函数/del.md",
+    "前端笔记/css/Sass 详细用法.md",
+    "前端笔记/js/jQuery/clone().md",
+    "Android/性能优化/ListView控件性能的一些优化方法.md",
+    "容器/Docker.md",
+    "MATLAB/MATLAB主页.md",
+    "数据库/原理/事务的隔离级别.md",
+    "数据库/原理/事务的概念.md",
+    "Java/Okio.md",
+    "Java/JSON数据转换.md",
+    "Dart和Flutter/学习笔记/混合开发.md",
+    "Dart和Flutter/学习笔记/动画.md",
+    "Dart和Flutter/学习笔记/持久化.md",
+    "Dart和Flutter/Flutter主页.md",
+    "通信/HTTP和HTTPS.md",
+    "通信/Http请求的过程.md",
+    "通信/img/Pasted image 20220616102909.png",
+    "数据结构/线性表.md",
+    "数据结构/数据结构的基本概念.md",
+    "数据结构/数据的存储结构.md",
+    "笔记软件插件使用教学/Admonition.md",
+    "日记/2021年/2021-10-25.md",
+    "产品经理",
+    "前端笔记/REACT/img/Pasted image 20221021081306.png",
+    "img/Pasted image 20220617152206.png",
+    "前端笔记/前端原理/img/Pasted image 20230607152005.png",
+    "前端笔记/前端原理/img/Pasted image 20230607150606.png",
+    "前端笔记/前端原理/img",
+    "前端笔记/前端原理",
+    "前端笔记/面试圣经/img/Pasted image 20230528121109.png",
+    "前端笔记/面试圣经/img/Pasted image 20230528121032.png",
+    "前端笔记/面试圣经/img/Pasted image 20230528121027.png",
+    "前端笔记/面试圣经/img",
+    "前端笔记/面试圣经",
+    "专升本/极限、连续、间断.canvas",
+    "未命名 11.canvas",
+    "未命名 10.canvas",
+    "未命名 1.canvas",
+    "未命名 9.canvas",
+    "未命名 8.canvas",
+    "未命名 7.canvas",
+    "未命名 6.canvas",
+    "未命名 5.canvas"
+  ]
+}

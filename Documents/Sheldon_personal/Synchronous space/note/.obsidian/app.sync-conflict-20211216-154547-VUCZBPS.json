@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "./img",
+  "promptDelete": false,
+  "vimMode": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "defaultViewMode": "preview",
+  "lineWrap": true,
+  "smartIndentList": true,
+  "tabSize": 5
+}

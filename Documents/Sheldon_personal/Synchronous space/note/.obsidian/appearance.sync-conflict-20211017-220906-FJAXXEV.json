@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "realistic-highlight",
+    "bullet-point-relationship-lines",
+    "heading"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "baseFontSize": 16,
+  "theme": "system",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "realistic-highlight",
+    "bullet-point-relationship-lines",
+    "heading"
+  ],
+  "baseFontSizeAction": false,
+  "accentColor": "#3c00ff",
+  "monospaceFontFamily": "HarmonyOS Sans SC",
+  "textFontFamily": "HarmonyOS Sans SC",
+  "interfaceFontFamily": "HarmonyOS Sans SC",
+  "nativeMenus": false
+}

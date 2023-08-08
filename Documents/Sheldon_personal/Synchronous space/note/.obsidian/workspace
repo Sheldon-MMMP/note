@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc9c42b3d1fe7622",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端笔记/node.js/egg学习笔记.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "053c3d668dc8d9e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4880b5fadc0ce611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109386142cb0b46e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fd5db565b01bdbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端笔记/node.js/egg学习笔记.md"
+              }
+            }
+          },
+          {
+            "id": "327b20897cae4a5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "linear",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17b077b15b693869",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a17c3d856cb452eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7c5556e812788c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a059038fc007f5b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "79968edb8b5a1626",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端笔记/node.js/egg学习笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b698a2909e62098",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端笔记/node.js/egg学习笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "573d5b95da6a3264",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5ace96b4e006da0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5,
+    "collapsed": true
+  },
+  "active": "8fd5db565b01bdbe",
+  "lastOpenFiles": [
+    "前端笔记/js/typescript/原始类型.md",
+    "前端笔记/js/typescript/类型拓宽.md",
+    "前端笔记/js/typescript/类型断言.md",
+    "前端笔记/js/typescript/类型缩小.md",
+    "前端笔记/js/typescript/接口类型.md",
+    "前端笔记/js/typescript/编译上下文.md",
+    "前端笔记/js/typescript/泛型.md",
+    "前端笔记/js/typescript/类型的合并.md",
+    "前端笔记/js/typescript/ts环境搭建.md",
+    "前端笔记/js/typescript/字面量类型.md"
+  ]
+}

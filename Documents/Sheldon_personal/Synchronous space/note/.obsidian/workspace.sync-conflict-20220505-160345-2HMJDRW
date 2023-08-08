@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "40f858f93d51b335",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0df1880b6e22f4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edf6832b2062de3d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f3b5541baaf6f5c2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e8535b3f30b2e73f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a96622d08b62473f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "384d070edf46d4cb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "117afb6396652cb8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5067c877a3736655",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5d0df1880b6e22f4",
+  "lastOpenFiles": [
+    "sheldon/日记/2021-10-15.md",
+    "未命名.md",
+    "sheldon/数据库/MySQL.md",
+    "sheldon/前端笔记/Sass的使用方法.md",
+    "sheldon/前端笔记/Sass 详细用法.md",
+    "sheldon/前端笔记/Live   Sass   Compiler.md",
+    "sheldon/前端笔记/Sass.md",
+    "sheldon/前端笔记/Sass.sync-conflict-20210924-131401-VUCZBPS.md",
+    "sheldon/前端笔记/HTML.md"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b477a298e689e5d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "英语/语法/代词.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6758c91ccb1dc359",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a8110ad48bc1282",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2d621941d633f427",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "39f90917bfbf88dd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b0265af182235908",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "45697be3e85ec599",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bb9d62522264929",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "c5353523d711243a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "英语/语法/代词.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6a63e2ab184b026a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "英语/语法/代词.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b477a298e689e5d4",
+  "lastOpenFiles": [
+    "英语/语法/代词.md",
+    "前端笔记/js/jQuery/addClass().md",
+    "前端笔记/js/jQuery/after()和insertAfter().md",
+    "前端笔记/js/jQuery/attr().md",
+    "前端笔记/js/jQuery/before().md",
+    "前端笔记/js/jQuery/clone().md",
+    "前端笔记/js/jQuery/css().md",
+    "前端笔记/js/jQuery/html().md",
+    "前端笔记/js/jQuery/removeAttr().md",
+    "前端笔记/js/jQuery/prop().md"
+  ]
+}

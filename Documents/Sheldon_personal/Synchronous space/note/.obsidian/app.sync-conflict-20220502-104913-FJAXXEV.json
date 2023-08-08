@@ -1,0 +1,30 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "./img",
+  "promptDelete": false,
+  "vimMode": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "defaultViewMode": "preview",
+  "lineWrap": true,
+  "smartIndentList": true,
+  "tabSize": 5,
+  "communityThemeSortOrder": "download",
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "rightToLeft": false,
+  "showIndentGuide": true
+}

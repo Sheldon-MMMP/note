@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 17,
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "realistic-highlight",
+    "bullet-point-relationship-lines",
+    "heading"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a046575b188ce076",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端笔记/js/ES/深入理解iterable，Iterator，Generator.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "250735ac6f5304ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d46552498719526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1154dea108379e48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "85311578687cfd1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cea34db4af0292f9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "969c6acd43ea7d6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端笔记/js/ES/深入理解iterable，Iterator，Generator.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "4a2c1db68d214034",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e41fefe868cc53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68831a7891b7e71",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "70101f5a35cea808",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端笔记/js/ES/深入理解iterable，Iterator，Generator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e32f2ebfcd31941b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端笔记/js/ES/深入理解iterable，Iterator，Generator.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18e85bf1bf4f0bd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d539c10940fb8238",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a046575b188ce076",
+  "lastOpenFiles": [
+    "前端笔记/node.js/fs文件系统模块.md",
+    "前端笔记/node.js/path路径模块.md",
+    "前端笔记/node.js/node主页.md",
+    "前端笔记/node.js/egg学习笔记.md",
+    "前端笔记/node.js/Express.md",
+    "数据库/MySQL/MySQL.md",
+    "前端笔记/js/ES/Map数据类型.md",
+    "前端笔记/js/ES/Set数据类型.md",
+    "前端笔记/js/ES/genterator函数.md",
+    "前端笔记/js/ES/Promise.md"
+  ]
+}

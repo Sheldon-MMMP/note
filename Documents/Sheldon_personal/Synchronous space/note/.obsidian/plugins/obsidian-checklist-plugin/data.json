@@ -1,0 +1,14 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "groupBy": "page",
+  "sortDirection": "old->new",
+  "ignoreFiles": "",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "日记/日记模板.md",
+    "日记/2021-10-17.md",
+    "日记/2021-10-15.md"
+  ]
+}

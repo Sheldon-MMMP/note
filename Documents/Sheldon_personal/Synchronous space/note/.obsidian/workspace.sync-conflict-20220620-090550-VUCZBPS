@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0797553c1f999f32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python/Django/ORM模型.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1877b5ca1664948f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "507c4a124fe69b93",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3054bfb337714fb5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ff389b40b2f56d69",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "871300a389da0b7f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7d9acac03678ec48",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "233f7436c6757bb8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5b45b0d0654f0153",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "python/Django/ORM模型.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "363bbfb63a09a1c1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "python/Django/ORM模型.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0797553c1f999f32",
+  "lastOpenFiles": [
+    "python/Django/ORM模型.md",
+    "python/Django/Django基础.md",
+    "前端笔记/js/javascript/异步/primise.md",
+    "前端笔记/js/javascript/定时器的清除与重启.md",
+    "前端笔记/js/javascript/this和event的区别.md",
+    "前端笔记/git.md",
+    "前端笔记/性能优化/资源合并与压缩.md",
+    "通信/Http请求的过程.md",
+    "前端笔记/性能优化/未命名.md",
+    "通信/HTTP和HTTPS.md"
+  ]
+}

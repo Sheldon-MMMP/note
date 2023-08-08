@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "ae72468941c8424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0275a47c1edc6499",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端笔记/node.js/path路径模块.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70171571d1ee9254",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b99dab78bebdcb59",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "de8f1cd641e90569",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1363172d70b4c7fb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d4f16e20db810133",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ca4c6c65457c1a67",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc0a184cce08c423",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "82f2ae68b4c14cd5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "前端笔记/node.js/path路径模块.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c346ae8d912e53ba",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "前端笔记/node.js/path路径模块.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0275a47c1edc6499",
+  "lastOpenFiles": [
+    "前端笔记/node.js/path路径模块.md",
+    "前端笔记/node.js/node主页.md",
+    "前端笔记/node.js/http模块.md",
+    "前端笔记/node.js/fs文件系统模块.md",
+    "前端笔记/node.js/Express.md",
+    "前端笔记/node.js/数据库和身份认证.md",
+    "前端笔记/node.js/入门.md",
+    "前端笔记/node.js/模块化.md",
+    "前端笔记/js/typescript/typescript主页.md",
+    "前端笔记/js/typescript/编译上下文.md"
+  ]
+}
