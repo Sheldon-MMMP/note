@@ -6,7 +6,8 @@
 		{"id":"38f583e952f6a6ac","x":-493,"y":200,"width":250,"height":60,"type":"text","text":"订单列表"},
 		{"id":"f51049e82d67e6d1","x":-493,"y":300,"width":250,"height":60,"type":"text","text":"轮播图上下架"},
 		{"id":"3b1400897b01bbb5","x":-493,"y":400,"width":250,"height":60,"type":"text","text":"店员修改"},
-		{"id":"0e32de3b4c90b6ca","x":-140,"y":-100,"width":250,"height":60,"type":"text","text":"用户列表"}
+		{"id":"0e32de3b4c90b6ca","x":-140,"y":-100,"width":250,"height":60,"type":"text","text":"用户列表"},
+		{"id":"00dcd79a44929d09","x":-140,"y":0,"width":250,"height":60,"type":"text","text":"等级自动更新"}
 	],
 	"edges":[]
 }
