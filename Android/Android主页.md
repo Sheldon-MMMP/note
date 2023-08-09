@@ -1,8 +1,8 @@
 ---
-banner: "Android/img/Pasted image 20220510095129.png"
-banner_x: 0.5
-banner_y: 0.77428
+banner: "![[android_logo_PNG15.png]]"
+banner_x: 0.34368
 ---
+
 
 
 # Android主页
