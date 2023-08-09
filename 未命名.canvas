@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"92b341327b2be778","x":-493,"y":-100,"width":250,"height":60,"type":"text","text":"店员上架和下架"},
-		{"id":"e63b8d6ea694fc5a","x":-493,"y":0,"width":250,"height":60,"type":"text","text":""}
+		{"id":"e63b8d6ea694fc5a","x":-493,"y":0,"width":250,"height":60,"type":"text","text":"审核店员"},
+		{"id":"5d314e4f5ff4cdad","x":-493,"y":100,"width":250,"height":60,"type":"text","text":"数据金额显示"}
 	],
 	"edges":[]
 }
