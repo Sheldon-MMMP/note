@@ -8,7 +8,8 @@
 		{"id":"3b1400897b01bbb5","x":-493,"y":400,"width":250,"height":60,"type":"text","text":"店员修改"},
 		{"id":"0e32de3b4c90b6ca","x":-140,"y":-100,"width":250,"height":60,"type":"text","text":"用户列表"},
 		{"id":"00dcd79a44929d09","x":-140,"y":0,"width":250,"height":60,"type":"text","text":"等级自动更新"},
-		{"id":"97868284da61dc73","x":-140,"y":100,"width":250,"height":60,"type":"text","text":"抢单等级限制"}
+		{"id":"97868284da61dc73","x":-140,"y":100,"width":250,"height":60,"type":"text","text":"抢单等级限制"},
+		{"id":"8fef503f696403dd","x":-140,"y":200,"width":250,"height":60,"type":"text","text":"订单提示"}
 	],
 	"edges":[]
 }
