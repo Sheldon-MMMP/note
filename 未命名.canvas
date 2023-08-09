@@ -3,7 +3,8 @@
 		{"id":"92b341327b2be778","x":-493,"y":-100,"width":250,"height":60,"type":"text","text":"店员上架和下架"},
 		{"id":"e63b8d6ea694fc5a","x":-493,"y":0,"width":250,"height":60,"type":"text","text":"审核店员"},
 		{"id":"5d314e4f5ff4cdad","x":-493,"y":100,"width":250,"height":60,"type":"text","text":"数据金额显示"},
-		{"id":"38f583e952f6a6ac","x":-493,"y":200,"width":250,"height":60,"type":"text","text":"订单列表"}
+		{"id":"38f583e952f6a6ac","x":-493,"y":200,"width":250,"height":60,"type":"text","text":"订单列表"},
+		{"id":"f51049e82d67e6d1","x":-493,"y":300,"width":250,"height":60,"type":"text","text":"轮播图上下架"}
 	],
 	"edges":[]
 }
