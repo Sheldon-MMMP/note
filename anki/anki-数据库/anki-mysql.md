@@ -1,0 +1,5 @@
+TARGET DECK
+mysql
+
+#anki
+
