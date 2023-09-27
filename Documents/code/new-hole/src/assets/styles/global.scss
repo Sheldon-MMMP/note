@@ -1,0 +1,35 @@
+:root {
+  --primary-color: 221, 136, 207;
+  --online-color: #13E398;
+  --primary80-color: #f8e7f6;
+  --icon-color: #a68ca7;
+  --primary-black-color: 75, 22, 76;
+  --white-color: 255, 255, 255;
+  --animate-delay: 0.5s;
+  --animate-duration: 800ms;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("~@/assets/font/HarmonyOS_Sans_SC_Regular.otf") format("otf"),
+       url("~@/assets/font/HarmonyOS_Sans_SC_Regular.woff") format("woff"),
+       url("~@/assets/font/HarmonyOS_Sans_SC_Regular.woff2") format("woff2");
+  font-weight: normal;  
+  font-style: normal;  
+}
+
+* {
+  font-family: SFPro;
+}
+
+$primary-color:rgb(var(--primary-color));
+$online-color:rgb(var(--online-color));
+$primary80-color:rgb(var(--primary80-color));
+$icon-color:rgb(var(--icon-color));
+$white-color:rgb(var(--white-color));
+
+
+// 页面边距变量
+$pageMargins: 1rem;
+
+$primary-black-color: #4b164c
